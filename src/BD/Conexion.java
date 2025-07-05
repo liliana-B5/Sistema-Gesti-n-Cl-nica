@@ -14,7 +14,7 @@ import java.sql.Statement;
 public class Conexion {
     public static String url = "jdbc:mysql://localhost:3306/dawa";
     public static String usuario = "root";
-    public static String clave = "liliana05";
+    public static String clave = "*******";
     public static String clase = "com.mysql.jdbc.Driver";
     PreparedStatement ps = null;
 
